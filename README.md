@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pearlolivia
-- 👀 I’m interested in React.js, Vanilla JS and PHP
-- 🌱 I’m currently learning Animation and Gaming in JS
+- 👋 Hi, I’m Pearl
+- 👀 I’m work with React daily and I'm interested in all things JS frontend related
+- 🌱 I’m currently how to create web-based 2D games, including drawing the assets as well as developing the code
 - 📫 How to reach me: pearlolivia@hotmail.co.uk
 
 <!---
